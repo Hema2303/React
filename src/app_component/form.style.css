@@ -1,0 +1,43 @@
+.input{
+  width: 250px;
+  border:none;
+    border-bottom: 1px solid lightgray;
+}
+
+.drop{
+  width: 250px;
+}
+.center12 {
+  width: 200px;
+  margin: 0;
+  position: absolute;
+  top: 100%;
+  left: 60%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.label{
+  text-align: left;
+  font-size: 10pt;
+  text-align: left;
+  color: red;
+}
+
+.submit{
+  margin-top: 20px;
+  
+
+  }
+  .btnSubmit{
+    color: #fff;
+    padding: 5px;
+    width: 250px;
+    border:none;  
+    background-color: red;
+    border-radius: 5px;
+  }
+
+  .cityDiv{
+    margin-top: 20px;
+  }

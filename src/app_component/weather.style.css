@@ -1,0 +1,26 @@
+
+.label{
+  font-size: 10pt;
+  text-align: left;
+  color: red;
+}
+
+.value{
+  font-size: 10pt;
+  text-align: left;
+  border-bottom: 1px solid lightgray;
+
+}
+
+.next{
+  margin-top: 50px;
+}
+
+.center12 {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
